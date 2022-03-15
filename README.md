@@ -1,7 +1,6 @@
 # Hi, I'm Andy 👋🏽
 
 - 💻 I’m currently serving as a Software Developer at [Mariners Church](https://www.marinerschurch.org), building internal tooling for staff and volunteers.
-- 🌱 I’m currently increasing my knowledge around **Data Engineering** to be able to build better data pipelines and systems.
 - ✨ I enjoy building custom mechanical keyboards, traveling to new places, and trying new foods with my wife.
 - 👔 Connect with me on [LinkedIn](https://www.linkedin.com/in/andyhxng/).
 
