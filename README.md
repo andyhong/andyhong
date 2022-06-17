@@ -1,6 +1,6 @@
 # Hi, I'm Andy 👋🏽
 
-- 💻 I’m currently serving as a Software Developer at [Mariners Church](https://www.marinerschurch.org), building internal tooling for staff and volunteers.
+- 💻 I’m currently serving as a Software Developer at [Mint Mobile](https://www.mintmobile.com).
 - ✨ I enjoy building custom mechanical keyboards, traveling to new places, and trying new foods with my wife.
 - 👔 Connect with me on [LinkedIn](https://www.linkedin.com/in/andyhxng/).
 
