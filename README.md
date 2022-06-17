@@ -13,10 +13,10 @@
 
 ## Tools I Work With
 
-- Python (Pandas, Flask)
-- Javascript (Typescript)
+- Typescript
+- React – Next.js
 - HTML/CSS
-- React – Next.js, Gatsby
 - Node.js
 - SQL – Postgres, MySQL
-- NoSQL – MongoDB, Firebase
+- NoSQL – MongoDB, Firebase, Redis
+- GraphQL - Apollo, Prisma
