@@ -14,9 +14,10 @@
 ## Tools I Work With
 
 - Typescript
-- React – Next.js
+- React – Next.js, Redux
 - HTML/CSS
 - Node.js
+- Prisma
+- Apollo
 - SQL – Postgres, MySQL
-- NoSQL – MongoDB, Firebase, Redis
-- GraphQL - Apollo, Prisma
+- NoSQL – MongoDB, Firebase, DynamoDB
