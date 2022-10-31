@@ -1,9 +1,5 @@
 # Hi, I'm Andy 👋🏽
 
-- 💻 I’m currently serving as a Software Engineer at [Mint Mobile](https://www.mintmobile.com).
-- ✨ I enjoy building custom mechanical keyboards, traveling to new places, and trying new foods with my wife.
-- 👔 Connect with me on [LinkedIn](https://www.linkedin.com/in/andyhxng/).
-
 ## Projects
 > Codebases for projects can be found in pinned section below. 👇🏽
 - **[Churchkey](https://churchkey.hong.sh)** – an online solution for your church's bulletin. Think Linktree for churches. Built with Next.js, React Query, and MongoDB.
