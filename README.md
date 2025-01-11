@@ -1,3 +1,3 @@
 # hi, i'm andy
 
-currently, i'm building apis on AWS for Mint Mobile / Ultra Mobile.
+currently building apis on [AWS](https://aws.amazon.com/) for [T-Mobile](https://www.t-mobile.com/)
